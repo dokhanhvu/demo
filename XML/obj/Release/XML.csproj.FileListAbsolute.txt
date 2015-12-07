@@ -8,3 +8,4 @@ D:\GitStore\demo\XML\obj\Release\XML.Properties.Resources.resources
 D:\GitStore\demo\XML\obj\Release\XML.csproj.GenerateResource.Cache
 D:\GitStore\demo\XML\obj\Release\XML.exe
 D:\GitStore\demo\XML\obj\Release\XML.pdb
+D:\GitStore\demo\XML\obj\Release\XML.csprojResolveAssemblyReference.cache
