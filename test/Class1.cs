@@ -17,7 +17,7 @@ namespace test
         public void TestMethodA()
         {
             
-            Assert.AreEqual(3, a.cong(1,2));
+            Assert.AreEqual(2, a.cong(1,2));
         }
     }
 }
