@@ -1,0 +1,10 @@
+D:\GitStore\demo\XML\bin\Release\XML.exe.config
+D:\GitStore\demo\XML\bin\Release\XML.exe
+D:\GitStore\demo\XML\bin\Release\XML.pdb
+D:\GitStore\demo\XML\bin\Release\nunit.framework.dll
+D:\GitStore\demo\XML\bin\Release\nunit.framework.xml
+D:\GitStore\demo\XML\obj\Release\XML.Form1.resources
+D:\GitStore\demo\XML\obj\Release\XML.Properties.Resources.resources
+D:\GitStore\demo\XML\obj\Release\XML.csproj.GenerateResource.Cache
+D:\GitStore\demo\XML\obj\Release\XML.exe
+D:\GitStore\demo\XML\obj\Release\XML.pdb

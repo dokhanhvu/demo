@@ -15,3 +15,13 @@ E:\tài liệu học\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.csprojRes
 E:\tài liệu học\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.Form1.resources
 E:\tài liệu học\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.Properties.Resources.resources
 E:\tài liệu học\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+D:\GitStore\demo\XML\bin\Debug\XML.exe.config
+D:\GitStore\demo\XML\bin\Debug\XML.exe
+D:\GitStore\demo\XML\bin\Debug\XML.pdb
+D:\GitStore\demo\XML\bin\Debug\nunit.framework.dll
+D:\GitStore\demo\XML\bin\Debug\nunit.framework.xml
+D:\GitStore\demo\XML\obj\Debug\XML.Form1.resources
+D:\GitStore\demo\XML\obj\Debug\XML.Properties.Resources.resources
+D:\GitStore\demo\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+D:\GitStore\demo\XML\obj\Debug\XML.exe
+D:\GitStore\demo\XML\obj\Debug\XML.pdb
